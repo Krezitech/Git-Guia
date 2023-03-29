@@ -9,3 +9,4 @@ git commit -m "Nombre del commit inculuyendo comillas)"
 git branch -M main
 git remote add origin "la url del repositorio github (sin comillas)"
 git push -u main
+
